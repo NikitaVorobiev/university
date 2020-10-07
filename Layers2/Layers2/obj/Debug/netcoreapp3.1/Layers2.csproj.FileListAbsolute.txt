@@ -1,0 +1,17 @@
+C:\Users\Henker\source\repos\Layers2\Layers2\bin\Debug\netcoreapp3.1\Layers2.exe
+C:\Users\Henker\source\repos\Layers2\Layers2\obj\Debug\netcoreapp3.1\Layers2.csprojAssemblyReference.cache
+C:\Users\Henker\source\repos\Layers2\Layers2\obj\Debug\netcoreapp3.1\Layers2.AssemblyInfoInputs.cache
+C:\Users\Henker\source\repos\Layers2\Layers2\obj\Debug\netcoreapp3.1\Layers2.AssemblyInfo.cs
+C:\Users\Henker\source\repos\Layers2\Layers2\bin\Debug\netcoreapp3.1\Layers2.deps.json
+C:\Users\Henker\source\repos\Layers2\Layers2\bin\Debug\netcoreapp3.1\Layers2.runtimeconfig.json
+C:\Users\Henker\source\repos\Layers2\Layers2\bin\Debug\netcoreapp3.1\Layers2.runtimeconfig.dev.json
+C:\Users\Henker\source\repos\Layers2\Layers2\bin\Debug\netcoreapp3.1\Layers2.dll
+C:\Users\Henker\source\repos\Layers2\Layers2\bin\Debug\netcoreapp3.1\Layers2.pdb
+C:\Users\Henker\source\repos\Layers2\Layers2\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Henker\source\repos\Layers2\Layers2\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Henker\source\repos\Layers2\Layers2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Henker\source\repos\Layers2\Layers2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Henker\source\repos\Layers2\Layers2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Henker\source\repos\Layers2\Layers2\obj\Debug\netcoreapp3.1\Layers2.csproj.CopyComplete
+C:\Users\Henker\source\repos\Layers2\Layers2\obj\Debug\netcoreapp3.1\Layers2.dll
+C:\Users\Henker\source\repos\Layers2\Layers2\obj\Debug\netcoreapp3.1\Layers2.pdb

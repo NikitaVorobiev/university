@@ -1,0 +1,17 @@
+C:\Users\Henker\source\repos\AILab3\AILab3\bin\Debug\netcoreapp3.1\AILab3.exe
+C:\Users\Henker\source\repos\AILab3\AILab3\obj\Debug\netcoreapp3.1\AILab3.csprojAssemblyReference.cache
+C:\Users\Henker\source\repos\AILab3\AILab3\obj\Debug\netcoreapp3.1\AILab3.AssemblyInfoInputs.cache
+C:\Users\Henker\source\repos\AILab3\AILab3\obj\Debug\netcoreapp3.1\AILab3.AssemblyInfo.cs
+C:\Users\Henker\source\repos\AILab3\AILab3\bin\Debug\netcoreapp3.1\AILab3.deps.json
+C:\Users\Henker\source\repos\AILab3\AILab3\bin\Debug\netcoreapp3.1\AILab3.runtimeconfig.json
+C:\Users\Henker\source\repos\AILab3\AILab3\bin\Debug\netcoreapp3.1\AILab3.runtimeconfig.dev.json
+C:\Users\Henker\source\repos\AILab3\AILab3\bin\Debug\netcoreapp3.1\AILab3.dll
+C:\Users\Henker\source\repos\AILab3\AILab3\bin\Debug\netcoreapp3.1\AILab3.pdb
+C:\Users\Henker\source\repos\AILab3\AILab3\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Henker\source\repos\AILab3\AILab3\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Henker\source\repos\AILab3\AILab3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Henker\source\repos\AILab3\AILab3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Henker\source\repos\AILab3\AILab3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Henker\source\repos\AILab3\AILab3\obj\Debug\netcoreapp3.1\AILab3.csproj.CopyComplete
+C:\Users\Henker\source\repos\AILab3\AILab3\obj\Debug\netcoreapp3.1\AILab3.dll
+C:\Users\Henker\source\repos\AILab3\AILab3\obj\Debug\netcoreapp3.1\AILab3.pdb

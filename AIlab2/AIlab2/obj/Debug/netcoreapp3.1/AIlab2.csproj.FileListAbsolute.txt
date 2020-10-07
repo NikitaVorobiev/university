@@ -1,0 +1,17 @@
+C:\Users\Henker\source\repos\AIlab2\AIlab2\bin\Debug\netcoreapp3.1\AIlab2.exe
+C:\Users\Henker\source\repos\AIlab2\AIlab2\bin\Debug\netcoreapp3.1\AIlab2.deps.json
+C:\Users\Henker\source\repos\AIlab2\AIlab2\bin\Debug\netcoreapp3.1\AIlab2.runtimeconfig.json
+C:\Users\Henker\source\repos\AIlab2\AIlab2\bin\Debug\netcoreapp3.1\AIlab2.runtimeconfig.dev.json
+C:\Users\Henker\source\repos\AIlab2\AIlab2\bin\Debug\netcoreapp3.1\AIlab2.dll
+C:\Users\Henker\source\repos\AIlab2\AIlab2\bin\Debug\netcoreapp3.1\AIlab2.pdb
+C:\Users\Henker\source\repos\AIlab2\AIlab2\obj\Debug\netcoreapp3.1\AIlab2.csprojAssemblyReference.cache
+C:\Users\Henker\source\repos\AIlab2\AIlab2\obj\Debug\netcoreapp3.1\AIlab2.AssemblyInfoInputs.cache
+C:\Users\Henker\source\repos\AIlab2\AIlab2\obj\Debug\netcoreapp3.1\AIlab2.AssemblyInfo.cs
+C:\Users\Henker\source\repos\AIlab2\AIlab2\obj\Debug\netcoreapp3.1\AIlab2.dll
+C:\Users\Henker\source\repos\AIlab2\AIlab2\obj\Debug\netcoreapp3.1\AIlab2.pdb
+C:\Users\Henker\source\repos\AIlab2\AIlab2\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Henker\source\repos\AIlab2\AIlab2\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Henker\source\repos\AIlab2\AIlab2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Henker\source\repos\AIlab2\AIlab2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Henker\source\repos\AIlab2\AIlab2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Henker\source\repos\AIlab2\AIlab2\obj\Debug\netcoreapp3.1\AIlab2.csproj.CopyComplete
